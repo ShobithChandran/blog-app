@@ -1,0 +1,9 @@
+###Get Method
+GET http://localhost:5001
+Content-Type: application/json
+
+###Post Method
+POST http://localhost:5001
+Content-Type: application/json
+
+{"username" : "Sho"}
