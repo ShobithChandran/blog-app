@@ -4,6 +4,7 @@ const ArticleInfo = require('./src/model/BlogDB');
 
 
 
+
 // Object initialization
 const app = express();
 // app.use(cors());
